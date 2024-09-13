@@ -20,3 +20,11 @@
 *Limitation of ViT: 
 ***ViT doesnot capture local spatial info as effectively as traditional CNN does***
 
+***CREATION OF ViT***
+1. Input Layer
+2. Data Augmentation
+3. Patches
+4. Transformer Block
+5. Flatten
+6. MLP (Multi-Lyaer Perceptrons)
+7. Output Layer

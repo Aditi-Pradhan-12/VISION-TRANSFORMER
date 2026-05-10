@@ -28,3 +28,5 @@
 5. Flatten
 6. MLP (Multi-Lyaer Perceptrons)
 7. Output Layer
+
+cyizhou
